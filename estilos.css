@@ -221,19 +221,15 @@ header{
 	}
 }
 
-.comic{
-	margin-top: 5%;
-	
+.separator img{
+	margin-top: 2%;
+	max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
 }
 
-.comics img{
-	width: auto\9;
-    height: auto;
-    max-width: 100%;
-    vertical-align: middle;
-    border: 0;
-    -ms-interpolation-mode: bicubic
-}
 
 .Stilo a{
 	color: #fff;
@@ -243,5 +239,3 @@ header{
 	align-items: center;
 	padding: 0 25px 35px 25px;
 }
-
-  
